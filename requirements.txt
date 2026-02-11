@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+
+azure-identity
+azure-ai-agents
+azure-ai-projects --pre
+
+azure-search-documents
+azure-storage-blob
